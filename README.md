@@ -11,5 +11,7 @@ Each category of card has several variations, each with different effects. These
 
 While playing the game, each player starts off with 10 lives. They gain and lose lives depending on the effects of each card played. If a player reaches 0 lives, they lose. The game is played versus the computer, which selects cards to play at random.
 
+Upon completion of a game, the entire transcript is written to a file "lines.txt" in the "txt" directory of the project.
+
 # Installation
 To run the game, clone the repository locally and import the project into your Java IDE of choice. The main class to run the game is "GamePlayer" located in the "game" package.
